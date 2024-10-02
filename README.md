@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/alpadedhia/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/alpadedhia/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alpadedhia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/alpadedhia/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/alpadedhia/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/alpadedhia/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/alpadedhia/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alpadedhia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/alpadedhia/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/alpadedhia/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/alpadedhia/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alpadedhia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/alpadedhia/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/alpadedhia/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/alpadedhia/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
